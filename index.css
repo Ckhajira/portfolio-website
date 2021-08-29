@@ -15,19 +15,23 @@ body {
 
 .main-nav ul {
     display: flex;
-    margin: 0;
+    margin: 0 106px;
     padding: 0;
+    height: 100px;
+    align-items: center;
+    justify-content: flex-end;
 }
 
-nav ul li {
+.main-nav ul li {
     list-style: none;
     font-size: 18px;
     justify-content: flex-end;
-    width: 150px;
+    
+    align-content: center;
 }
 .main-nav a{
     text-decoration: none;
-    padding: 1rem;
+    padding: 3rem;
     color: black;
 }
 .main-nav a:hover{
