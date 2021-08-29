@@ -234,7 +234,7 @@ section {
     font-weight: bold;
     text-align: center;
     padding-top: 60px;
-    padding-bottom: 40px;
+    padding-bottom: 30px;
 }
 .item a{
     text-decoration: none;
@@ -242,6 +242,7 @@ section {
     font-size: 24px;
     font-weight: bold;
     display: block;
+    padding-bottom: 20px;
 }
 .item a:hover{
     color: blue;
@@ -255,4 +256,30 @@ section {
 }
 .content{
     padding: 0 40px;
+}
+.bolden{
+    font-weight: bold;
+}
+.contact-me{
+    font-size: 46px;
+    font-weight: bold;
+}
+.tagline{
+    font-size: 24px;
+
+}
+input{
+    background-color: rgb(216, 216, 216);
+    
+}
+.field{
+    width: 200px;
+    display: block;
+    margin-bottom: 20px;
+    height: 30px;
+    
+}
+.long-field{
+    width: 200px;
+    height: 200px;
 }
