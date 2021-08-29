@@ -204,12 +204,13 @@ body {
 
 section {
     background-color: #F4F4F4;
+    height: 2053px;
 }
 
 .about-me {
     display: flex;
     flex-direction: column;
-   
+
     justify-content: flex-start;
     align-content: center;
 
@@ -229,14 +230,16 @@ section {
     width: 750px;
     margin-left: 150px;
 }
-.project-title{
+
+.project-title {
     font-size: 46px;
     font-weight: bold;
     text-align: center;
     padding-top: 60px;
     padding-bottom: 30px;
 }
-.item a{
+
+.item a {
     text-decoration: none;
     color: black;
     font-size: 24px;
@@ -244,42 +247,78 @@ section {
     display: block;
     padding-bottom: 20px;
 }
-.item a:hover{
+
+.item a:hover {
     color: blue;
 }
-.project-items{
+
+.project-items {
     display: flex;
     text-align: center;
 }
-.items{
+
+.items {
     padding: 0 20px;
 }
-.content{
+
+.content {
     padding: 0 40px;
 }
-.bolden{
+
+.bolden {
     font-weight: bold;
 }
-.contact-me{
+
+.contact-me {
     font-size: 46px;
     font-weight: bold;
+    text-align: center;
+    padding: 50px 0;
 }
-.tagline{
+
+.tagline {
     font-size: 24px;
+    text-align: center;
 
 }
-input{
+
+input {
     background-color: rgb(216, 216, 216);
-    
+
+
 }
-.field{
-    width: 200px;
+
+.field {
+    width: 346px;
     display: block;
-    margin-bottom: 20px;
-    height: 30px;
+    margin-bottom: 10px;
+    height: 44px;
+
+}
+
+.long-field {
+    width: 346px;
+    height: 136px;
+}
+::placeholder{
     
 }
-.long-field{
-    width: 200px;
-    height: 200px;
+
+.btn{
+    background-color: #2517D0;
+    width: 108px;
+    height: 36px;
+    border-radius: 15px;
+    text-align: center;
+    float: right;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.btn p{
+    padding-top: 10px;
+}
+.form-btn{
+    float: right;
+    margin-right: 350px;
+    padding-top: 20px;
 }
