@@ -180,39 +180,52 @@ body {
     color: white;
     font-family: 'Roboto Slab';
 }
-.title{
+
+.title {
     font-weight: bold;
     font-size: 46px;
 }
-.sub-title{
+
+.sub-title {
     font-size: 24px;
     font-weight: lighter;
     font-style: italic;
     padding: 10px;
 
 }
-.text-background{
+
+.text-background {
     display: flex;
     flex-direction: column;
     height: 561px;
     justify-content: center;
     align-items: center;
 }
-section{
+
+section {
     background-color: #F4F4F4;
 }
-.about-me{
+
+.about-me {
     display: flex;
     flex-direction: column;
     height: 500px;
-    justify-content: center;
-    text-align: center;
+    justify-content: flex-start;
+    align-content: center;
 
+    text-align: center;
 }
-.about-me-title{
+
+.about-me-title {
     font-size: 46px;
     font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 30px;
+
 }
-.about-me-details{
+
+.about-me-details {
     font-size: 18px;
+    width: 750px;
+    margin-left: 150px;
 }
