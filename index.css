@@ -190,3 +190,10 @@ body {
     font-style: italic;
 
 }
+.text-background{
+    display: flex;
+    flex-direction: column;
+    height: 561px;
+    justify-content: center;
+    align-items: center;
+}
