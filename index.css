@@ -300,11 +300,9 @@ input {
     width: 346px;
     height: 136px;
 }
-::placeholder{
-    
-}
 
-.btn{
+
+.btn {
     background-color: #2517D0;
     width: 108px;
     height: 36px;
@@ -314,11 +312,21 @@ input {
     margin-left: 100px;
     margin-top: 10px;
 }
-.btn p{
+
+.btn p {
     padding-top: 10px;
 }
-.form-btn{
+
+.form-btn {
     float: right;
     margin-right: 350px;
     padding-top: 20px;
+}
+
+.hobbies {
+    font-weight: bold;
+
+}
+.item{
+    width: 100%;
 }
