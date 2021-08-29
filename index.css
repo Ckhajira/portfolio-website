@@ -201,3 +201,18 @@ body {
 section{
     background-color: #F4F4F4;
 }
+.about-me{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    justify-content: center;
+    text-align: center;
+
+}
+.about-me-title{
+    font-size: 46px;
+    font-weight: bold;
+}
+.about-me-details{
+    font-size: 18px;
+}
