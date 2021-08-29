@@ -240,7 +240,12 @@ section {
     color: black;
     font-size: 24px;
     font-weight: bold;
+    display: block;
 }
 .item a:hover{
     color: blue;
+}
+.project-items{
+    display: flex;
+    text-align: center;
 }
