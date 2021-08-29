@@ -188,6 +188,7 @@ body {
     font-size: 24px;
     font-weight: lighter;
     font-style: italic;
+    padding: 10px;
 
 }
 .text-background{
@@ -196,4 +197,7 @@ body {
     height: 561px;
     justify-content: center;
     align-items: center;
+}
+section{
+    background-color: #F4F4F4;
 }
