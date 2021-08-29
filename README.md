@@ -27,9 +27,8 @@ If you have any issues or questions, you can get intouch with me through email: 
 ## Design Diagrams
 Landing Page
 
-![](images/Screenshot from 2021-08-29 22-55-23.png)
-![](images/Screenshot from 2021-08-29 22-55-30.png)
-![](images/Screenshot from 2021-08-29 22-55-35.png)
+![](images/design.png)
+
 
 ### License
 MIT License
