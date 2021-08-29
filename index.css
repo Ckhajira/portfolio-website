@@ -207,7 +207,7 @@ section {
     height: 2053px;
 }
 
-.about-me {
+#about-me {
     display: flex;
     flex-direction: column;
 
@@ -231,7 +231,7 @@ section {
     margin-left: 150px;
 }
 
-.project-title {
+#project-title {
     font-size: 46px;
     font-weight: bold;
     text-align: center;
@@ -269,7 +269,7 @@ section {
     font-weight: bold;
 }
 
-.contact-me {
+#contact-me {
     font-size: 46px;
     font-weight: bold;
     text-align: center;
