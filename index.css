@@ -182,4 +182,11 @@ body {
 }
 .title{
     font-weight: bold;
+    font-size: 46px;
+}
+.sub-title{
+    font-size: 24px;
+    font-weight: lighter;
+    font-style: italic;
+
 }
