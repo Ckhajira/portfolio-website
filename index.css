@@ -233,7 +233,8 @@ section {
     font-size: 46px;
     font-weight: bold;
     text-align: center;
-    padding: 40px 0px;
+    padding-top: 60px;
+    padding-bottom: 40px;
 }
 .item a{
     text-decoration: none;
